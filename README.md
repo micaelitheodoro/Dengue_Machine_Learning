@@ -34,7 +34,7 @@ Essa etapa foi fundamental para melhorar a capacidade preditiva do modelo.
 
 ---
 
-## 🤖 Modelo
+## Modelo
 
 Foi utilizado o modelo:
 
